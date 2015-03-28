@@ -5,6 +5,7 @@ object tres {
 
   def main(args: Array[String]) {
     print("hola")
+    suma(9,8)
   }
 
 
