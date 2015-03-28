@@ -6,4 +6,10 @@ class hola {
     print("hola")
   }
 
+  def suma(x :Int,y: Int): Int =
+  {
+    x + y
+  }
+
+
 }
